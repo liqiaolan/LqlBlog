@@ -1,0 +1,22 @@
+{
+  "name": "lqlblog",
+  "version": "1.0.0",
+  "description": "博客（node+koa+react）",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liqiaolan/LqlBlog.git"
+  },
+  "author": "lql",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liqiaolan/LqlBlog/issues"
+  },
+  "homepage": "https://github.com/liqiaolan/LqlBlog#readme",
+  "dependencies": {
+    "koa": "^2.13.4"
+  }
+}
